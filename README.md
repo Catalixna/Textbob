@@ -1,2 +1,1 @@
-# Textbob
-bob?
+# tx2_analisis
